@@ -1,6 +1,6 @@
 # Rosalind Bioinformatics Exercises
 
-Este repositório contém soluções para exercícios do [Rosalind](https://rosalind.info/), uma plataforma de aprendizado de bioinformática através de problemas práticos de programação.
+Este repositório contém soluções para exercícios do [Rosalind](https://rosalind.info/problems/locations/), uma plataforma de aprendizado de bioinformática através de problemas práticos de programação.
 
 ## Estrutura do Repositório
 
